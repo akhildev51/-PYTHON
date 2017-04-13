@@ -1,0 +1,8 @@
+x=50
+def fun():
+	print 'x is 1st ',x
+	global x
+	x=2
+	print 'x is 2nd ',x
+fun()		
+print 'x is 3rd ',x

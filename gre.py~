@@ -1,0 +1,4 @@
+def cid(a,b):
+	c=a+b
+	print c
+cid(a,b)

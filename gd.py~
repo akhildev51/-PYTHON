@@ -1,0 +1,7 @@
+n=float(input("Enter the TIME(24 hour format): "))
+if i<12.0:
+	print 'GOOD MORNING'
+elif i>19.0:
+	print 'GOOD NIGHT'
+else:
+	print 'GOOD EVENING'

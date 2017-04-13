@@ -1,0 +1,8 @@
+def rev(s):
+	n=len(s)
+	i=1
+	while (i<n+1):
+		print s[n-i]
+		i+=1
+x=raw_input('Enter a string to reverse: ')
+rev(x)

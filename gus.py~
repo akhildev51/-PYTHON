@@ -1,0 +1,6 @@
+for i in range (1,5,1):
+	x=input('ENTER A NUMBER TO GUESS: ')
+	if(x==i):
+		print"YOU GUESED CORRECTLY"
+	else:
+		print "YOU GUESSED WRONGLY"

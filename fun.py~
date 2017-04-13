@@ -1,0 +1,6 @@
+x=input('ENTER A NUMBER: ')
+Y=input('ENTER A NUMBER: ')
+def sum(a,b):
+	c=a*b
+	print c
+sum(x,y)

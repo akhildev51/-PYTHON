@@ -1,0 +1,6 @@
+import math
+def area(r):
+	ar=(math.pi)*r*r
+	return r
+x=input('Enter the radius: ')
+print area(x)
